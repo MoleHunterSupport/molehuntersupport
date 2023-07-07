@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-MoleHunter Support Information
-Support Name:HuiChen Cho
-Phone:+852 64004756
-Email:admin@yunbet.net
+MoleHunter Support Information <br>
+Support Name:HuiChen Cho <br>
+Phone:+852 64004756  <br>
+Email:admin@yunbet.net <br>
